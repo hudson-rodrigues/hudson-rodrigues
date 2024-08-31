@@ -3,7 +3,7 @@
 Analyst Programmer At FBM Brasil
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hudson%20Rodrigues-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hudson-rodrigues-64226a144/)](https://www.linkedin.com/in/hudson-rodrigues-64226a144/) 
-[![Outlook Badge](https://img.shields.io/badge/-hudson_rs@outlook.com-00875f?style=flat-square&logo=Outlook&logoColor=white&link=mailto:hudson_rs@outlook.com)](mailto:hudson_rs@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-hudson_rs@outlook.com-00875f?style=flat-square&logo=minutemailer&logoColor=white&link=mailto:hudson_rs@outlook.com)](mailto:hudson_rs@outlook.com)
 <br/>
 
 ## Tecnologias Utilizadas no dia a dia
